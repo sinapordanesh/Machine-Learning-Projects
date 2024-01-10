@@ -96,7 +96,7 @@ def main():
     # # Close the progress bar
     # pbar.close()
 
-    df.to_csv('data_enriched.csv', index=False)
+    df.to_csv('raw_enriched_data.csv', index=False)
 
 if __name__ == "__main__":
     main()
