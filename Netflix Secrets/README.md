@@ -8,7 +8,7 @@
 This project utilizes data science and machine learning techniques to analyze and predict Netflix viewership and IMDb ratings. The primary dataset, released by Netflix, contains around 18,000 movie titles with their viewing hours, enriched with additional data from the OMDB API.
 
 ## Data
-| Name         | Description             |
+| File Name         | Description             |
 |--------------|-------------------------|
 |What_We_Watched_A_Netflix_Engagement_Report_2023Jan-Jun.xlsx| Original Netflix data from [here](https://about.netflix.com/en/news/what-we-watched-a-netflix-engagement-report) |
 | What_We_Watched_A_Netflix_Engagement_Report_2023Jan-Jun.csv  | Original data in CSV |
