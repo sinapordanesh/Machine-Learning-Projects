@@ -1,4 +1,4 @@
-# Project: Netflix Viewership Dataset Prepration and Machine Learning
+# Netflix Viewership Dataset Prepration & Machine Learning
 
 <div style="text-align: center;">
     <img src="./files/nf.png" alt="phase1" width="800"/>
