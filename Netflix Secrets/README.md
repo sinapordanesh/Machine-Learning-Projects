@@ -19,6 +19,7 @@ This project utilizes data science and machine learning techniques to analyze an
 
 
 ## Data Analysis Notebooks
+- `data_analyziz_1.ipynb`: Initial data sanetization before API enriching. Cleaning titles for better database search.
 - `data_analyziz_2.ipynb`: This notebook includes the initial data cleaning processes, such as removing season numbers from titles, cleaning and formatting the dataset, and preparing it for enrichment.
 - `data_analyziz_3.ipynb`: This notebook continues the data cleaning process post-enrichment, handles null values, and performs feature extraction, including binary encoding for genres, languages, and countries, as well as one-hot encoding for the type of content.
 
