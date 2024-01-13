@@ -1,4 +1,4 @@
-# Project: Netflix Viewership and IMDb Rating Prediction
+# Project: Netflix Viewership Dataset Prepration and Machine Learning
 
 <div style="text-align: center;">
     <img src="./files/nf.png" alt="phase1" width="800"/>
