@@ -18,22 +18,27 @@ In this capstone project, we aim to predict whether the Falcon 9 first stage wil
 
 ```
 SpaceX-Fellows/
-├── 1.1_spacex-data-collection-api.ipynb
-├── 1.2_spacex-Data wrangling.ipynb
-├── 1.3_webscraping.ipynb
-├── 2.1_eda_sql_sqllite.ipynb
-├── 2.2_eda_dataviz.ipynb
-├── 3.1._Folium_launch_site_location.ipynb
-├── 4.1_Machine Learning Prediction.ipynb
-├── Spacex.csv
-├── dataset_part_1.csv
-├── dataset_part_2.csv
-├── dataset_part_3.csv
-├── my_data1.db
-├── requirements.txt
-├── spacex_dash_app.py
-├── spacex_launch_dash.csv
-└── spacex_web_scraped.csv
+├── Data
+│   ├── Spacex.csv
+│   ├── dataset_part_1.csv
+│   ├── dataset_part_2.csv
+│   ├── dataset_part_3.csv
+│   ├── my_data1.db
+│   ├── spacex_launch_dash.csv
+│   └── spacex_web_scraped.csv
+├── Notebooks
+│   ├── 1.1_spacex-data-collection-api.ipynb
+│   ├── 1.2_spacex-Data wrangling.ipynb
+│   ├── 1.3_webscraping.ipynb
+│   ├── 2.1_eda_sql_sqllite.ipynb
+│   ├── 2.2_eda_dataviz.ipynb
+│   ├── 3.1._Folium_launch_site_location.ipynb
+│   └── 4.1_Machine Learning Prediction.ipynb
+├── README.md
+├── Scripts
+│   ├── requirements.txt
+│   └── spacex_dash_app.py
+└── spacex_fellows.webp
 ```
 
 
