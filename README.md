@@ -20,10 +20,10 @@ The purpose of this repository is to serve as a personal learning journey throug
 
 ## Projects 
 
-### 🎬 Netflix Secrets 
+### 🎬 [Netflix Secrets](./Netflix%20Secrets/) 
 A project focused on analyzing Netflix data to uncover interesting trends and patterns. This project involves data cleaning, exploratory data analysis, and building predictive models to understand user behavior and content popularity.
 
-### 🚀 SpaceX Fellows 
+### 🚀 [SpaceX Fellows](./SpaceX%20Fellows/)
 A comprehensive project aimed at predicting the successful landing of SpaceX's Falcon 9 first stage. It includes data manipulation, feature engineering, model training, and evaluation. This project demonstrates the application of various machine learning algorithms to a real-world problem.
 
 ## License 
